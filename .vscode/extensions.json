@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "aaron-bond.better-comments",
+        "llvm-vs-code-extensions.vscode-clangd",
+        "twxs.cmake",
+        "ms-vscode.cmake-tools",
+        "streetsidesoftware.code-spell-checker",
+        "ebikelabs.cpp-checker",
+        "mine.cpplint",
+        "cschlosser.doxdocgen",
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "usernamehw.errorlens",
+    ]
+}
