@@ -11,5 +11,9 @@
         "mhutchie.git-graph",
         "eamodio.gitlens",
         "usernamehw.errorlens",
+        "foxundermoon.shell-format",
+        "timonwong.shellcheck",
+        "remisa.shellman",
+        "redjue.git-commit-plugin"
     ]
 }

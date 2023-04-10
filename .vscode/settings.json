@@ -1,5 +1,18 @@
 {
     "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd",
     "editor.formatOnSave": true,
-    "terminal.integrated.scrollback": 5000
+    "terminal.integrated.scrollback": 5000,
+    "[shellscript]": {
+        "editor.defaultFormatter": "foxundermoon.shell-format"
+    },
+    "[dockerfile]": {
+        "editor.defaultFormatter": "foxundermoon.shell-format"
+    },
+    "[ignore]": {
+        "editor.defaultFormatter": "foxundermoon.shell-format"
+    },
+    "files.watcherExclude": {
+        "**/build": true
+    },
+    "cmake.configureOnOpen": false
 }
